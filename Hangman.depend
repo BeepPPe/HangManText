@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1618544780 source:d:\cpp\baitphangman (text)\hangman\draw.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<thread>
+
+1618545154 source:d:\cpp\baitphangman (text)\hangman\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<vector>
+	<algorithm>
+	<thread>
+	<chrono>
+	"draw.h"
+	"utility.h"
+
+1618544762 d:\cpp\baitphangman (text)\hangman\draw.h
+	<string>
+
+1618545178 d:\cpp\baitphangman (text)\hangman\utility.h
+	<string>
+
+1618545260 source:d:\cpp\baitphangman (text)\hangman\utility.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+
+1619024404 source:d:\cpp\baitphangmantext\hangman\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<vector>
+	<algorithm>
+	<thread>
+	<chrono>
+	"draw.h"
+	"utility.h"
+
+1619030179 d:\cpp\baitphangmantext\hangman\draw.h
+	<string>
+
+1619029153 d:\cpp\baitphangmantext\hangman\utility.h
+	<string>
+
+1619051763 source:d:\cpp\baitphangmantext\hangman\utility.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<conio.h>
+	"utility.h"
+	"draw.h"
+
+1619051822 source:d:\cpp\baitphangmantext\hangman\draw.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<thread>
+	<conio.h>
+	"utility.h"
+	"draw.h"
+
